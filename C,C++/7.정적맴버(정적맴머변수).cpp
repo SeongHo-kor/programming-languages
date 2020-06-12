@@ -1,6 +1,5 @@
 // private내의 맴버매소드나 맴버변수에 접근하고 싶을 때 정적메소드로 사용
 // 전역변수로 썼을 경우 프로그래밍 난잡 -> static을 사용하면 가능
-
 #include<iostream>
 using namespace std;
 
